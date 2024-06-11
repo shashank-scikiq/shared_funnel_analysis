@@ -1,0 +1,95 @@
+"bpp_id","bap_id","domain","transaction_type","transaction_id","num_count","select_timestamp","std_code","provider_id","provider_name"
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:27:38Z",std:011,"46574250",BOX8 - Desi Meals
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:27:38Z",std:011,"46574250",BOX8 - Desi Meals
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:28:54Z",std:011,"46121968",Mughal Masters
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:28:54Z",std:011,"46121968",Mughal Masters
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:27:38Z",std:011,"46574250",BOX8 - Desi Meals
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:27:38Z",std:011,"46574250",BOX8 - Desi Meals
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:27:38Z",std:011,"46574250",BOX8 - Desi Meals
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:27:38Z",std:011,"46574250",BOX8 - Desi Meals
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:08:55Z",std:0120,"200735",Bikkgane Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:28:54Z",std:011,"46121968",Mughal Masters
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:28:54Z",std:011,"46121968",Mughal Masters
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:28:54Z",std:011,"46121968",Mughal Masters
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:28:54Z",std:011,"46121968",Mughal Masters
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:05:52Z",std:0120,"12226330",Biryani Mahal
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:12:46Z",std:011,"46859341",Biryani Munch
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:07:04Z",std:0120,"11510289",Biryani Blues
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:08:55Z",std:0120,"200735",Bikkgane Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:08:55Z",std:0120,"200735",Bikkgane Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:08:55Z",std:0120,"200735",Bikkgane Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:08:55Z",std:0120,"200735",Bikkgane Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:08:55Z",std:0120,"200735",Bikkgane Biryani
+api.eksecond.in,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",3,"2024-06-01T14:19:27Z",std:0120,"64c8dfc8577a24c2c969fce6",Mealy
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:05:52Z",std:0120,"12226330",Biryani Mahal
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:05:52Z",std:0120,"12226330",Biryani Mahal
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:05:52Z",std:0120,"12226330",Biryani Mahal
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:05:52Z",std:0120,"12226330",Biryani Mahal
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:05:52Z",std:0120,"12226330",Biryani Mahal
+biz.ondc.rebelfoods.com,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",5,"2024-06-01T14:14:11Z",std:0120,"4:532",Faasos - Wraps & Rolls
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:12:46Z",std:011,"46859341",Biryani Munch
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:12:46Z",std:011,"46859341",Biryani Munch
+ondc-prod.uengage.in,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:17:49Z",std:011,"29202",Biryani Badshah	
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:23:44Z",std:0120,"11510967",LunchBox - Meals and Thalis
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:23:44Z",std:0120,"11510967",LunchBox - Meals and Thalis
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:12:46Z",std:011,"46859341",Biryani Munch
+ondc-prod.uengage.in,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:17:49Z",std:011,"29202",Biryani Badshah	
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:07:04Z",std:0120,"11510289",Biryani Blues
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:07:04Z",std:0120,"11510289",Biryani Blues
+biz.ondc.rebelfoods.com,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",5,"2024-06-01T14:13:46Z",std:0120,"6:644",Faasos Signature Rolls & Wraps
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:21:34Z",std:011,"42851676",Big Bowl (Big Bowl Company)
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:07:04Z",std:0120,"11510289",Biryani Blues
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:07:04Z",std:0120,"11510289",Biryani Blues
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:07:04Z",std:0120,"11510289",Biryani Blues
+api.eksecond.in,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",3,"2024-06-01T14:19:27Z",std:0120,"64c8dfc8577a24c2c969fce6",Mealy
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:12:46Z",std:011,"46859341",Biryani Munch
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:12:46Z",std:011,"46859341",Biryani Munch
+biz.ondc.rebelfoods.com,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",5,"2024-06-01T14:14:11Z",std:0120,"4:532",Faasos - Wraps & Rolls
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:23:44Z",std:0120,"11510967",LunchBox - Meals and Thalis
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:23:44Z",std:0120,"11510967",LunchBox - Meals and Thalis
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:23:44Z",std:0120,"11510967",LunchBox - Meals and Thalis
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:23:44Z",std:0120,"11510967",LunchBox - Meals and Thalis
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:21:34Z",std:011,"42851676",Big Bowl (Big Bowl Company)
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:21:34Z",std:011,"42851676",Big Bowl (Big Bowl Company)
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:21:34Z",std:011,"42851676",Big Bowl (Big Bowl Company)
+biz.ondc.rebelfoods.com,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",5,"2024-06-01T14:13:46Z",std:0120,"6:644",Faasos Signature Rolls & Wraps
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:21:34Z",std:011,"42851676",Big Bowl (Big Bowl Company)
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:21:34Z",std:011,"42851676",Big Bowl (Big Bowl Company)
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:01:34Z",std:011,"9096460",Nazeer Chicken.com
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:06:42Z",std:0120,"47055295",Yum Biryani Bowls - Customize Your Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:01:34Z",std:011,"9096460",Nazeer Chicken.com
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:06:42Z",std:0120,"47055295",Yum Biryani Bowls - Customize Your Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:01:34Z",std:011,"9096460",Nazeer Chicken.com
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:06:42Z",std:0120,"47055295",Yum Biryani Bowls - Customize Your Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:01:34Z",std:011,"9096460",Nazeer Chicken.com
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:06:42Z",std:0120,"47055295",Yum Biryani Bowls - Customize Your Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:01:34Z",std:011,"9096460",Nazeer Chicken.com
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:06:42Z",std:0120,"47055295",Yum Biryani Bowls - Customize Your Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:01:34Z",std:011,"9096460",Nazeer Chicken.com
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:06:42Z",std:0120,"47055295",Yum Biryani Bowls - Customize Your Biryani
+biz.ondc.rebelfoods.com,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",5,"2024-06-01T14:18:34Z",std:011,"8:1479",The Good Bowl - Rice Bowls & more
+biz.ondc.rebelfoods.com,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",5,"2024-06-01T14:18:34Z",std:011,"8:1479",The Good Bowl - Rice Bowls & more
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:04:08Z",std:0120,"9341567",Mr. Chai Singh
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:29:54Z",std:0120,"40697386",Dum Safar Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:04:08Z",std:0120,"9341567",Mr. Chai Singh
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:29:54Z",std:0120,"40697386",Dum Safar Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:04:08Z",std:0120,"9341567",Mr. Chai Singh
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:29:54Z",std:0120,"40697386",Dum Safar Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:04:08Z",std:0120,"9341567",Mr. Chai Singh
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:29:54Z",std:0120,"40697386",Dum Safar Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:04:08Z",std:0120,"9341567",Mr. Chai Singh
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:29:54Z",std:0120,"40697386",Dum Safar Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:04:08Z",std:0120,"9341567",Mr. Chai Singh
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:29:54Z",std:0120,"40697386",Dum Safar Biryani
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:25:52Z",std:011,"9041547",Biryani By Kilo
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:25:52Z",std:011,"9041547",Biryani By Kilo
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:25:52Z",std:011,"9041547",Biryani By Kilo
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:25:52Z",std:011,"9041547",Biryani By Kilo
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:25:52Z",std:011,"9041547",Biryani By Kilo
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:25:52Z",std:011,"9041547",Biryani By Kilo
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:23:14Z",std:011,"10236934",The Biryani Life
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:23:14Z",std:011,"10236934",The Biryani Life
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:23:14Z",std:011,"10236934",The Biryani Life
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_select,"6cec61ca-0476-4d1b-8dda-17272589f5a1",32,"2024-06-01T14:23:14Z",std:011,"10236934",The Biryani Life
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,on_init,"6cec61ca-0476-4d1b-8dda-17272589f5a1",2,"2024-06-01T14:23:14Z",std:011,"10236934",The Biryani Life
+webapi.magicpin.in/oms_partner/ondc,ondc-bap.olacabs.com,ONDC:RET11,confirm,"6cec61ca-0476-4d1b-8dda-17272589f5a1",1,"2024-06-01T14:23:14Z",std:011,"10236934",The Biryani Life
