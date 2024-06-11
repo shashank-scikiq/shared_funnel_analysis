@@ -4,3 +4,4 @@
 .env
 
 **.parquet
+*Data_Folder
