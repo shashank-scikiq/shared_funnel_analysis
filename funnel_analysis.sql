@@ -1,3 +1,7 @@
+
+bap_id = Buyer app 
+app = seller app 
+
 -- 
 select * from shared_transaction_funnel_analysis limit 10;
 
@@ -25,8 +29,9 @@ from shared_transaction_funnel_analysis
 order by transaction_id, select_timestamp;
 
 
-select * from shared_transaction_funnel_analysis where transaction_id = 'bde2aada-fe51-42fe-a719-f3e7f59c48b3' order by provider_id;
+select * from shared_transaction_funnel_analysis where transaction_id = '000471a5-ac92-42f8-9239-19575ed2e6d5' order by provider_id, select_timestamp;
 
+select * from shared_transaction_funnel_analysis where bap_id = 'ondc.paytm.com' order by transaction_id limit 100;
 
 select * from shared_transaction_funnel_analysis
 where transaction_id in (
@@ -161,3 +166,12 @@ FROM
 WHERE
     type_count > 1
 order by type_count desc, transaction_id, provider_id;
+
+
+select transaction_id, count(distinct provider_id) 
+from shared_transaction_funnel_analysis
+group by transaction_id
+order by count(distinct provider_id) desc;
+
+
+select * from shared_transaction_funnel_analysis where transaction_id = 'cbe32021-eaaf-480f-8f3e-333656d4e4b8' order by transaction_id;
